@@ -6,8 +6,12 @@ const About = () => {
     <div>
       <Navbar />
       <main className="about">
-        <h1>About Me</h1>
-        <p>Here is a little bit about myself.</p>
+        <h1>There is my short journey</h1>
+        <br />
+        <p>
+          I am FSC student and a frontend developer and i am studying Generative
+          AI in GIAIC.
+        </p>
       </main>
       <Footer />
     </div>

@@ -7,7 +7,8 @@ const Contact = () => {
       <Navbar />
       <main className="contact">
         <h1>Contact Me</h1> <br />
-        <p>You can reach me via email at abc@gmail.com.</p>
+        <br />
+        <p>You can reach me via email at hamzahamza.sheikh2009@gmail.com.</p>
       </main>
       <Footer />
     </div>
